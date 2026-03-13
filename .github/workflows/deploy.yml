@@ -19,4 +19,4 @@ jobs:
           git fetch
           git checkout main
           git pull
-          sudo chown www-data:www-data *
+          
